@@ -15,9 +15,13 @@ Projeto apresentado [nesse vídeo](https://youtu.be/lWLffhSjxZc) que demonstra o
 ```
 docker run -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:22.0.5 start-dev
 ```
+
 2 - Criar um realm
+
 3 - Criar usuário e client oauth no Keycloak
+
 4 - Ajustar as propriedes do gateway para apontar pro realm e client cadastrados
+
 5 - Executar projetos gateway e resource-server
 
 ## Testando a Aplicação
