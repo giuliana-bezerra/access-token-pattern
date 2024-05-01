@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/static/v1?label=Tipo&message=Tutorial&color=8257E5&labelColor=000000" alt="Tutorial" />
 </p>
 
-Projeto apresentado [nesse vídeo](https://youtu.be/lWLffhSjxZc) que demonstra o uso do access token pattern.
+Projeto apresentado [nesse vídeo](https://youtu.be/lWLffhSjxZc) que demonstra o uso do access token pattern com Spring Boot e Spring Cloud Gateway.
 
 ## Configuração do Keycloak
 
