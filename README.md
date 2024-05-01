@@ -1,5 +1,5 @@
 <h1 align="center">
-  Spring Security + Keycloak
+  Access Token Pattern
 </h1>
 
 <p align="center">
